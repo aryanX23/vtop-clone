@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/vtop-clone/static/css/main.9b6b8b60.css",
-    "main.js": "/vtop-clone/static/js/main.a2df4a9b.js",
+    "main.js": "/vtop-clone/static/js/main.8a1c4990.js",
     "index.html": "/vtop-clone/index.html",
     "main.9b6b8b60.css.map": "/vtop-clone/static/css/main.9b6b8b60.css.map",
-    "main.a2df4a9b.js.map": "/vtop-clone/static/js/main.a2df4a9b.js.map"
+    "main.8a1c4990.js.map": "/vtop-clone/static/js/main.8a1c4990.js.map"
   },
   "entrypoints": [
     "static/css/main.9b6b8b60.css",
-    "static/js/main.a2df4a9b.js"
+    "static/js/main.8a1c4990.js"
   ]
 }
