@@ -4,7 +4,7 @@ import { useNavigate } from "react-router-dom";
 export default function MainPage(){
     const navigate = useNavigate();
     function openPage(){
-        navigate("/home");
+        navigate("/vtop-clone/home");
     }
     return(
         <div className="MainPageBody">

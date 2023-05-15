@@ -6,8 +6,8 @@ function App() {
   return (
     <div className="AppBody">
       <Routes>
-        <Route path="/" element={<MainPage/>} />
-        <Route path="/home" element={<Home/>} />
+        <Route path="/vtop-clone/" element={<MainPage/>} />
+        <Route path="/vtop-clone/home" element={<Home/>} />
       </Routes>
     </div>
   );

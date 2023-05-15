@@ -5,7 +5,7 @@ export default function Home(){
     const navigate = useNavigate();
     function handleSignOut() {
         console.log("hello");
-        navigate("/");
+        navigate("/vtop-clone/");
     }
     const [dataVisi, setDataVisi] = React.useState("false");
     function handleClick(){
