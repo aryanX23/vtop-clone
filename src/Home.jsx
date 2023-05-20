@@ -27,7 +27,7 @@ export default function Home(){
                 
             </div>
             <div data-visibility={dataVisi} className='navPane' >
-                    <div className='navPaneImg'><img className='navPaneImgi' src={process.env.PUBLIC_URL+"/images/chirag.jpeg"} alt="aryan" /></div>
+                    <div className='navPaneImg'><img className='navPaneImgi' src={process.env.PUBLIC_URL+"/images/aryan.jpeg"} alt="aryan" /></div>
                     <div className='navPaneDetails'>21BCE8114 (STUDENT)</div>
                     <button className='navPaneBtn' onClick={handleSignOut} >Sign out</button>
             </div>
